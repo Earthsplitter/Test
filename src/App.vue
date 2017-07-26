@@ -117,7 +117,7 @@
     }]
 
   export default {
-    components: {VButton}, data() {
+    data() {
       return {
         columns1: columns,
         data1: data,
