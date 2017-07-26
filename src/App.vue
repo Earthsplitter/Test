@@ -70,7 +70,6 @@
  </template>
 
 <script>
-  import VButton from "../node_modules/vhtml-ui/packages/button/src/button";
   const data = [];
   for (let i = 0; i < 10; ++i) {
     data.push({
